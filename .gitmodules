@@ -6,3 +6,6 @@
 	path = diceplot
 	url = https://github.com/maflot/diceplot
 	subdir = diceplot
+[submodule "ggdiceplot"]
+	path = ggdiceplot
+	url = https://github.com/maflot/ggdiceplot
